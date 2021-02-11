@@ -1,6 +1,8 @@
 # cat_dog_identifier
 
-Differentiate between dogs and cats from mobile app using tensorflowlite 
+Differentiate between dogs and cats from mobile app using tensorflowlite package in flutter.
+
+You can either take a picture or select from the gallery and you will get the desired answer.
 
 ## Getting Started
 
